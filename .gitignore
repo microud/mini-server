@@ -1,0 +1,6 @@
+.terraform
+.idea
+.kube
+terraform.tfstate
+terraform.tfstate.backup
+modules/gateway/templates/config.yaml
